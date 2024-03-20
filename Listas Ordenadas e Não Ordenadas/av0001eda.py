@@ -1,6 +1,6 @@
 ##################################################################################
 # Aluno: Nicolas Pereira
-# Disciplina: 1402044 - ESTRUTURA DE DADOS
+# Disciplina: ESTRUTURA DE DADOS
 # christine.vieira@satc.edu.br
 ##################################################################################
 # Programa em Python
