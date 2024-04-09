@@ -1,8 +1,6 @@
 ##################################################################################
-# Aluno: Nicolas Borba Pereira 
-# Matricula: 201220601
+# Aluno: Nicolas Pereira 
 # Disciplina: 1402044 - ESTRUTURA DE DADOS
-# christine.vieira@satc.edu.br
 ##################################################################################
 # Programa em Python Verificação de Expressões Matemáticas
 ##################################################################################
