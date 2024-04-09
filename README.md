@@ -9,3 +9,6 @@
 - [aula1-ex3.py Criar Matriz inserir](https://github.com/hqnicolas/estrutura-de-dados/blob/main/Listas%20Ordenadas%20e%20N%C3%A3o%20Ordenadas/aula1-ex3.py)
 - [aula1-ex4.py Inserir, pesquisar e excluir](https://github.com/hqnicolas/estrutura-de-dados/blob/main/Listas%20Ordenadas%20e%20N%C3%A3o%20Ordenadas/aula1-ex4.py)
 - [aula2-ex1.py Pilha usando classes](https://github.com/hqnicolas/estrutura-de-dados/blob/main/Listas%20Ordenadas%20e%20N%C3%A3o%20Ordenadas/aula2-ex1.py)
+
+# [Pilhas](https://github.com/hqnicolas/Estrutura-de-dados/tree/main/Pilhas%20din%C3%A2micas)
+- [av0003eda.py Pilha dinâmica aplicada á análise de texto.](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Pilhas%20din%C3%A2micas/av0003eda.py)
