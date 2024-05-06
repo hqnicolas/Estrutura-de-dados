@@ -12,3 +12,4 @@
 
 # [Pilhas](https://github.com/hqnicolas/Estrutura-de-dados/tree/main/Pilhas%20din%C3%A2micas)
 - [av0003eda.py Pilha dinâmica aplicada á análise de texto.](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Pilhas%20din%C3%A2micas/av0003eda.py)
+- [av0004eda.py Pilha dinâmica aplicada á Cozinha.](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Pilhas%20din%C3%A2micas/av0004eda.py)
