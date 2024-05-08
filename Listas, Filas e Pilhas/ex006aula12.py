@@ -1,3 +1,7 @@
+##############################################################################################
+# Faça um Programa Python que leia a idade das pessoas, armazene a informação
+#  na sua respectiva lista. Mostre ao final a lista das idades na ordem menor para maior.
+##############################################################################################
 idades = []
 
 while True:
