@@ -1,15 +1,17 @@
+##############################################################################################
+# Faça um Programa Python que leia uma frase (caracteres), e diga quantas vogais e consoantes 
+# foram lidas. Mostre a lista ao final.
+##############################################################################################
 def contar_vogais_consoantes(frase):
    vogais = 0
    consoantes = 0
-   
-   vogais_consoantes = ['a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U']
-   
+      
    for letra in frase:
-       if letra in vogais_consoantes:
-           if letra in 'aeiouAEIOU':  # Verificando se é uma vogal
-               vogais += 1
-           else:  # É uma consoante
-               consoantes += 1
+        if letra in 'aeiouAEIOU':
+            vogais += 1
+        else:
+            consoantes += 1
+        
    
    print(f"Frase: {frase}")
    print(f"Número vogais: {vogais}")
