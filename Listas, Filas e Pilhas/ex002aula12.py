@@ -6,6 +6,8 @@
 # Laranja		35			4.25
 # Banana		20			3.75
 # Etc.
+# Mostrar também as frutas com maior e menor quantidade em estoque.
+# Mostrar a soma total das quantidades das frutas.
 ##############################################################################################
 import sys,os 
 
