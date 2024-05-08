@@ -1,3 +1,15 @@
+##############################################################################################
+# Faça um Programa Python que crie 2 listas: uma lista com  modelos de veículos (fiat palio,
+# ford fiesta, etc...) e outra lista com o ano correspondente aos veículos (2020, 2021, etc.) 
+# usando estruturas de repetição mostre os  dados da seguinte forma:
+# Veículo		Ano
+# Fiat Palio	2020
+# Ford Fiesta	2021
+# Etc.
+# Mostrar também os veículos com maior e menor ano.
+# Mostrar o primeiro e último veículo cadastrado.
+# Mostrar a quantidade de veículos cadastrados.
+##############################################################################################
 import sys, os 
 
 class Patio:
