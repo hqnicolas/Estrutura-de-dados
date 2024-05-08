@@ -1,3 +1,9 @@
+##############################################################################################
+# Faça um Programa Python que leia uma sequencia de números inteiros e armazene-os numa lista.
+# Armazene os números pares na lista PAR e os números impares na lista IMPAR.
+#  Imprima ao final as listas armazenadas.
+##############################################################################################
+
 numeros = []
 par = []
 impar = []
