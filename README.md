@@ -21,9 +21,9 @@
 - [av0004eda.py Pilha dinâmica aplicada á Cozinha.](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Pilhas%20din%C3%A2micas/av0004eda.py)
 
 # [Dicionários](https://github.com/hqnicolas/Estrutura-de-dados/tree/main/Dicionarios)
-- aula13ex1.py utilizando Dicionários com o índice numérico e nome
-- aula13ex2.py utilizando Dicionários produtos de papelaria
-- aula13ex3.py utilizando Dicionários livros e seus respectivos autores
+- [aula13ex1.py utilizando Dicionários com o índice numérico e nome](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13ex1.py)
+- [aula13ex2.py utilizando Dicionários produtos de papelaria](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13ex2.py)
+- [aula13ex3.py utilizando Dicionários livros e seus respectivos autores](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13ex3.py)
 - [aula13av1.py dicionário com os nomes de séries de TV](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av1.py)
 - [aula13av2.py dicionário com os nomes dos estados do Brasil](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av2.py)
 - [aula13av3.py dicionário com os nomes de times de futebol de SC](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av3.py)
