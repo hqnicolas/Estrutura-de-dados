@@ -1,4 +1,4 @@
-(https://github.com/hqnicolas/Estrutura-de-dados/assets/41456803/78e651c2-9fb4-4f9a-88d1-a99a114b7f41)# Estrutura de dados
+# Estrutura de dados
 - Publicando aqui meus exercícios da disciplina de estrutura de dados.
 - Aulas Proferidas pela christine.vieira@satc.edu.br
 - Listas Ordenados e Não Ordenados. Criação de Listas no Pyton.
