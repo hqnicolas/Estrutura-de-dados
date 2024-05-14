@@ -1,4 +1,4 @@
-# Estrutura de dados
+![image](https://github.com/hqnicolas/Estrutura-de-dados/assets/41456803/f170d0ea-1174-4b98-9205-47db94edecca)![image](https://github.com/hqnicolas/Estrutura-de-dados/assets/41456803/78e651c2-9fb4-4f9a-88d1-a99a114b7f41)# Estrutura de dados
 - Publicando aqui meus exercícios da disciplina de estrutura de dados.
 - Aulas Proferidas pela christine.vieira@satc.edu.br
 - Listas Ordenados e Não Ordenados. Criação de Listas no Pyton.
@@ -19,3 +19,12 @@
 - [aula2-ex1.py Pilha usando classes](https://github.com/hqnicolas/estrutura-de-dados/blob/main/Listas%20Ordenadas%20e%20N%C3%A3o%20Ordenadas/aula2-ex1.py)
 - [av0003eda.py Pilha dinâmica aplicada á análise de texto.](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Pilhas%20din%C3%A2micas/av0003eda.py)
 - [av0004eda.py Pilha dinâmica aplicada á Cozinha.](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Pilhas%20din%C3%A2micas/av0004eda.py)
+
+# [Dicionários](https://github.com/hqnicolas/Estrutura-de-dados/tree/main/Dicionarios)
+- aula13ex1.py utilizando Dicionários com o índice numérico e nome
+- aula13ex2.py utilizando Dicionários produtos de papelaria
+- aula13ex3.py utilizando Dicionários livros e seus respectivos autores
+- [aula13av1.py dicionário com os nomes de séries de TV](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av1.py)
+- [aula13av2.py dicionário com os nomes dos estados do Brasil](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av2.py)
+- [aula13av3.py dicionário com os nomes de times de futebol de SC](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av3.py)
+- [aula13av4.py dicionário com os nomes de atletas famosos](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av4.py)
