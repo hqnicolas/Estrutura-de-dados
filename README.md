@@ -28,3 +28,6 @@
 - [aula13av2.py dicionário com os nomes dos estados do Brasil](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av2.py)
 - [aula13av3.py dicionário com os nomes de times de futebol de SC](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av3.py)
 - [aula13av4.py dicionário com os nomes de atletas famosos](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Dicionarios/aula13av4.py)
+
+# [Sorteios](https://github.com/hqnicolas/Estrutura-de-dados/tree/main/Sorteio)
+- [aula14av1.py Um algoritmo que percorre a lista e coloca tudo em ordem crescente](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Sorteio/aula14av1.py)
