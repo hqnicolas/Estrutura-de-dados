@@ -31,3 +31,7 @@
 
 # [Sorteios](https://github.com/hqnicolas/Estrutura-de-dados/tree/main/Sorteio)
 - [aula14av1.py Um algoritmo que percorre a lista e coloca tudo em ordem crescente](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Sorteio/aula14av1.py)
+
+# [Árvores](https://github.com/hqnicolas/Estrutura-de-dados/tree/main/Arvores)
+- [Aula14ex1.py Árvore binária pré determinada.
+](https://github.com/hqnicolas/Estrutura-de-dados/blob/main/Arvores/aula15ex1.py)
