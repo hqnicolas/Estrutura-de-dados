@@ -1,4 +1,4 @@
-· SITUAÇÃO PROBLEMA
+# SITUAÇÃO PROBLEMA
 
 1 - Uma pequena Empresa Transportadora da região Sudeste de Santa Catarina, envia diariamente seu caminhão para 08 cidades para fazer as entregas.
 
@@ -8,11 +8,11 @@ No entanto, para algumas cidades de destino, existem múltiplos caminhos de aces
 
 O modelo deste problema pode ser observado no Grafo ilustrado na Figura 01, onde alguns nós possuem múltiplos caminhos (arestas) de acesso:
 
-· MODELO DE PROBLEMA
+# MODELO DE PROBLEMA
 
 2 - Este problema pode ser modelado como um Problema do Caminho Mínimo, que é um problema clássico da teoria dos grafos. O objetivo é encontrar o caminho que minimize a distância total percorrida, considerando as restrições e múltiplos caminhos entre as cidades.
 
-· ABORDAGEM
+# ABORDAGEM
 
 3 - Uma abordagem para resolver esse problema é utilizar algoritmos de otimização, como o Algoritmo do Caminho Mínimo ou o Algoritmo de Estrela A. Esses algoritmos podem ser implementados utilizando em Python.
 
